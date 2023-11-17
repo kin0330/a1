@@ -1,3 +1,5 @@
+txtlab Multilingual Novels
+This directory contains 30 novels that appeared between 1804 and 1817 in English. It is designed for us in teaching and research.
 
 
 Format:
