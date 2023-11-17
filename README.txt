@@ -13,3 +13,12 @@ Citation suggestion:
 Piper, Andrew (2016). txtlab Multilingual Novels. figshare. Dataset. DOI:https://doi.org/10.6084/m9.figshare.2062002.v3
 URL:https://figshare.com/articles/dataset/txtlab_Novel450/2062002
 
+Related resources:
+-PROSE_19C
+  https://figshare.com/articles/dataset/PROSE_19C/17868578
+-NONFIC_English_19C
+  https://figshare.com/articles/dataset/NONFIC_English_19C/17430497
+
+Funding:
+Social Sciences and Humanities Research Council
+
