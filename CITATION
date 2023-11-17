@@ -1,0 +1,15 @@
+title: txtlab Multilingual Novels
+
+type: dataset
+
+author: 
+  -given name: Piper 
+  -family name: Andrew
+
+identifier:
+  -type: doi
+   value: 10.6084/m9.figshare.2062002.v3
+  -url
+   value: 'https://doi.org/10.6084/m9.figshare.2062002.v3'
+
+repository-code: 'https://doi.org/10.6084/m9.figshare.2062002.v3'
