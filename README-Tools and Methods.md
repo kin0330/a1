@@ -20,7 +20,7 @@ This project will focus on the portrayal of gender roles in English novels, publ
 Do male and female characters in English novels from 1804 to 1817 consistently or differentially appear within family contexts?
 
 ## Process
-This project will employ a quantitative text analysis approach to delve into the 30 novels, with a specific focus on identifying and counting instances of character names and family-related keywords, such as "home," "house," "family" and ect, by encompassing the frequency of these mentions within family settings. 
+This project will employ a quantitative text analysis approach to delve into the 10 novels, with a specific focus on identifying and counting instances of character names and family-related keywords, such as "home," "house," "family" and ect, by encompassing the frequency of these mentions within family settings. 
 
 In literary works, when female characters are often linked with words related to the family environment, while male characters are less frequently connected to such terms, it may indicate that the author is highlighting the daily lives of women primarily within the home, as opposed to other settings such as the workplace.
 
